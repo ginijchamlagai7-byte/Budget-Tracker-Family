@@ -1,1 +1,1 @@
-# Budget-Tracker-Family
+# Family Finance App Template\nGenerated project skeleton.
